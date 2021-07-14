@@ -31,7 +31,7 @@ public partial class SendMail : System.Web.UI.Page
             smtp.Host = "smtp.gmail.com"; //for gmail host  
             smtp.EnableSsl = true;
             smtp.UseDefaultCredentials = false;
-            smtp.Credentials = new NetworkCredential("tribalrepository@gmail.com", "tralent@123");
+            smtp.Credentials = new NetworkCredential("tribalrepository@gmail.com", <PASSWORD>);
             smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
             smtp.Send(message);
 
