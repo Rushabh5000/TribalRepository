@@ -4,7 +4,7 @@
    <style>
        .mapdisp 
        {
-           background-image: url(https://maps.googleapis.com/maps/api/staticmap?center=Simsr,+Mumbai&zoom=13&scale=false&size=600x300&maptype=roadmap&key=AIzaSyCdJfpFuGrQcM0lwiqQTjdQ2mtCecyTdSg&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CSimsr,+Mumbai);
+           background-image: url(https://maps.googleapis.com/maps/api/staticmap?center=Simsr,+Mumbai&zoom=13&scale=false&size=600x300&maptype=roadmap&key=<API_KEY>&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CSimsr,+Mumbai);
 
            width:600px;
        }
