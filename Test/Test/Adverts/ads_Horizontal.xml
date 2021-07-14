@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Adverts/Images/amz_hor1.jfif</ImageUrl>
+    <NavigateUrl>https://www.amazon.in/gp/bestsellers/books/</NavigateUrl>
+    <AlternateText>Amazon Best Seller Books</AlternateText>
+    <Impression>10</Impression>
+    <Width>1200</Width>
+    <Height>100</Height>
+  </Ad>  
+  <Ad>
+    <ImageUrl>~/Adverts/Images/fk_hor1.jpg</ImageUrl>
+    <NavigateUrl>https://play.google.com/store/apps/details?id=com.flipkart.android</NavigateUrl>
+    <AlternateText>Flipkart Android Mobile App</AlternateText>
+    <Impression>10</Impression>
+    <Width>1200</Width>
+    <Height>100</Height>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Adverts/Images/fk_hor2.jpg</ImageUrl>
+    <NavigateUrl>https://www.flipkart.com/offers-store</NavigateUrl>
+    <AlternateText>Flipkart Offer Store</AlternateText>
+    <Impression>10</Impression>
+    <Width>1200</Width>
+    <Height>100</Height>
+  </Ad>
+</Advertisements>
