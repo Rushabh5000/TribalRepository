@@ -32,6 +32,6 @@
         <strong>Marketing ✉</strong> <a href="mailto:sailesh.y@somaiya.edu">sailesh.y@somaiya.edu</a>
     </address>
     <div class="mapdisp">
-        <img width="600" src="https://maps.googleapis.com/maps/api/staticmap?center=Simsr,+Mumbai&zoom=13&scale=false&size=600x300&maptype=roadmap&key=AIzaSyCdJfpFuGrQcM0lwiqQTjdQ2mtCecyTdSg&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CSimsr,+Mumbai" alt="Google Map of Simsr, Mumbai">
+        <img width="600" src="https://maps.googleapis.com/maps/api/staticmap?center=Simsr,+Mumbai&zoom=13&scale=false&size=600x300&maptype=roadmap&key=<API_KEY>&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CSimsr,+Mumbai" alt="Google Map of Simsr, Mumbai">
     </div>
 </asp:Content>
